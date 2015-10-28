@@ -1,5 +1,6 @@
 {
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"draw_centered": true,
 	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
@@ -16,9 +17,16 @@
 	"match_brackets": false,
 	"overlay_scroll_bars": "enabled",
 	"remember_full_screen": true,
+	"rulers":
+	[
+		80
+	],
 	"tab_size": 4,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"draw_centered": true
+	"word_wrap": true,
+	"wrap_width": 120,
+    "caret_extra_width": 2,
+    "caret_style": "phase"
 }
