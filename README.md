@@ -2,12 +2,14 @@ This repository is used to store my dev settings and tools like npm package.json
 
 Feel free to use any o those if you wish.
 
-Sublime Text packages:
-  AlignTab
-  Bracket Highlighter
-  Color Highlighter
-  Emmet
-  Sidebar Enhancment
-  Sublime Linter - jshint
-  Git
-  GitGutter
+Sublime Text packages I use:
+
+- AlignTab
+- Bracket Highlighter
+- Color Highlighter
+- Emmet
+- Sidebar Enhancment
+- Sublime Linter - jshint
+- Git
+- GitGutter
+- SCSS
